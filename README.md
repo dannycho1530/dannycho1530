@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yongwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=35&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=blinking&fontSize=35&fontAlignY=40&fontAlign=35&height=100)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan&size=40&letterSpacing=2px&duration=4000&pause=1000&random=false&width=435&height=75&lines=Welcome+to+Yongwon's+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## startupcode / 스타트업코드
 안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
