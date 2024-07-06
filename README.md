@@ -18,19 +18,20 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan&size=40&letterSpacing=2px&duration=4000&pause=1000&random=false&width=435&height=75&lines=Welcome+to+Yongwon's+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## Here are some ideas to help you get started:
-- 🔭 I'm currently aiming at Machine Learning Developer and Data Scientist<br />
-- 🌱 I'm currently learning Frontend & Backend Technology<br />
-- 💬 Ask me about Data Structures in Python, C++, Java, JavaScript, Data Mining and Machine Learning<br />
+- 🔭 I'm currently aiming at Machine Learning Developer and Data Scientist <br />
+- 🌱 I'm currently learning Frontend & Backend Technology <br />
+- 💬 Ask me about Data Structures in Python, C++, Java, JavaScript, Data Mining and Machine Learning <br />
+<br />
+<br />
+
+## My values
+- 😎 Everything should be fun and engaging<br />
+- 👌 Striving for speed without compromising safety<br />
+- 🦻 Communicate simply, but listen deeply<br />
 <br />
 <br />
 <br />
-## My values<br />
-😎 모든것은 재미있어야 합니다<br />
-👌 안전성을 겸비한 속도를 지향 합니다<br />
-🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
-<br />
-<br />
-<br />
+
 ## How i work
 저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다. 어려운 프로덕트를 성공 시키는 경험또한 재미있고 기술을 쉽게 풀어내는 것 또한 재미있습니다 :) 그리고 무조건 약속한 시간을 지키기 위해 노력하며 단순히 약속한 시간을 지키는것이 아닌 최대한 완성도를 높이기 위해서 노력합니다!
 저는 장비에 관심이 많아서 모든 장비가 세팅되어 있는 환경을 좋아합니다 :) 그래서 자택하는걸 좋아하지만 가끔은 카페에서 일하는것도 좋습니다.
@@ -53,5 +54,3 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-
-Copyright ⓒ startupcode yaro
