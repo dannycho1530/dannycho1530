@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=blinking&fontSize=35&fontAlignY=40&fontAlign=35&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=blinking&fontSize=35&fontAlignY=40&fontAlign=35&height=100&width=435)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan&size=40&letterSpacing=2px&duration=4000&pause=1000&random=false&width=435&height=75&lines=Welcome+to+Yongwon's+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## startupcode / 스타트업코드
-안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
+## Here are some ideas to help you get started:
+- I'm currently aiming on Machine Learning Developer and Data Scientist
+- I'm currently learning Frontend & Backend Technology
+- Ask me about Data Structures in Python, C++, Java, JavaScript, MySQL, Machine Learning and Deep Learning
+<br />
+
 <br />
 <br />
 <br />
