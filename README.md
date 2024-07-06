@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan&size=40&letterSpacing=2px&duration=4000&pause=1000&random=false&width=435&height=75&lines=Welcome+to+Yongwon's+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## Here are some ideas to help you get started:
-- I'm currently aiming on Machine Learning Developer and Data Scientist
-- I'm currently learning Frontend & Backend Technology
-- Ask me about Data Structures in Python, C++, Java, JavaScript, MySQL, Machine Learning and Deep Learning
-<br />
-
+- 🔭 I'm currently aiming at Machine Learning Developer and Data Scientist
+- 🌱 I'm currently learning Frontend & Backend Technology
+- 💬 Ask me about Data Structures in Python, C++, Java, JavaScript, Data Mining and Machine Learning
 <br />
 <br />
 <br />
