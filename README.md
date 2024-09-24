@@ -59,3 +59,4 @@ Here are some ideas to get you started:
 
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycho1530&layout=donut-vertical&theme=tokyonight)](https://github.com/dannycho1530/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannycho1530)](https://github.com/dannycho1530/github-readme-stats)
