@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 - 🦻 Communicate simply, but listen deeply<br />
 <br />
 
+<!--
 ## Projects
 
 <br />
+-->
 
 ## Skills
 #### I use it often.
